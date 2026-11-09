@@ -1,0 +1,9 @@
+# game executable copies and generated output
+werk/
+# third-party input, fetched separately
+bron-votor/
+# local drafts
+PR-beschrijving.md
+__pycache__/
+*.exe
+*.db
